@@ -10,4 +10,8 @@ export default class Cl_Padre {
     get atribA(){
         return this.atribA;
     }
+
+    metodoA(){
+        return 10;
+    }
 }
